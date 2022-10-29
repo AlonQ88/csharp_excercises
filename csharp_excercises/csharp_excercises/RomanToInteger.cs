@@ -1,6 +1,6 @@
 ﻿namespace csharp_excercises
 {
-    internal class RomanToInteger
+    public class RomanToInteger
     {
         public static int RomanToDecimal(string romanNumber)
         {
